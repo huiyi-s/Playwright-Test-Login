@@ -4,4 +4,4 @@
 - open fake-login.html
 - enter a sample email & password
 - submit the login form 
-# view Fake login page (./fake-login.html)
+# view Fake login page ([./fake-login.html](https://huiyi-s.github.io/Playwright-Test-Login/))
