@@ -3,6 +3,5 @@
 # Sample test scenario
 - open fake-login.html
 - enter a sample email & password
-- validate password visbility toggle
 - submit the login form 
 # view Fake login page (./fake-login.html)
